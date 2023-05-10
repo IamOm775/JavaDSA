@@ -1,2 +1,3 @@
 # JavaDSA
-Java DSA Notes and Solution to Leetcode Problems
+JavaDSA Notes and Solution to Leetcode Problems
+Link to all the problems are mentioned in the solution file itself.
