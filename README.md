@@ -1,3 +1,8 @@
 # JavaDSA
-JavaDSA Notes and Solution to Leetcode Problems
+
+Java DSA Notes
+
+Solution to Leetcode Problems
+
+Notes
 
